@@ -8,10 +8,8 @@ import io
 import re
 import os
 from dotenv import load_dotenv
-import PyPDF2
 import pdfplumber
 from collections import Counter
-import math
 
 load_dotenv()  
 client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))

@@ -1,0 +1,36 @@
+We are looking for a passionate and skilled Frontend Developer to join our product engineering team.
+
+As a Frontend Developer, you will be responsible for building modern, responsive, and user-friendly interfaces. You will work closely with our designers, backend engineers, and product managers to bring new features to life.
+
+---
+
+**Responsibilities:**
+- Develop responsive web applications using React.js and Next.js
+- Collaborate with UI/UX designers to implement design mockups with precision
+- Optimize applications for performance, SEO, and accessibility
+- Write clean, maintainable, and well-documented code
+- Work with backend APIs and contribute to API design discussions
+- Participate in code reviews and agile ceremonies
+
+---
+
+**Requirements:**
+- 1–3 years of experience in frontend development
+- Strong proficiency in HTML, CSS, JavaScript, and React.js
+- Experience with responsive design, accessibility standards, and cross-browser compatibility
+- Familiarity with Git, Figma, and design systems
+- Knowledge of modern frontend tooling (Webpack, Vite, Babel, etc.)
+- Good communication skills and a problem-solving mindset
+
+---
+
+**Bonus Points:**
+- Experience with TypeScript
+- Knowledge of Next.js or similar SSR frameworks
+- Contributions to open-source projects or personal portfolio
+
+---
+
+**Location:** Remote or New York Office  
+**Salary:** Competitive with stock options and health benefits  
+**Company:** InnovateX – Building tools that power the modern web

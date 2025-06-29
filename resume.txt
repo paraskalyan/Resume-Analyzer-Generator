@@ -1,0 +1,58 @@
+John Doe
+Email: johndoe@example.com | Phone: +1-123-456-7890 | Location: New York, USA
+LinkedIn: linkedin.com/in/johndoe | GitHub: github.com/johndoe
+
+---
+
+Professional Summary:
+Motivated and detail-oriented Frontend Developer with 2+ years of experience building responsive and accessible web applications using modern JavaScript frameworks. Strong problem-solving skills and a passion for creating intuitive user experiences.
+
+---
+
+Technical Skills:
+- Languages: HTML, CSS, JavaScript, TypeScript
+- Frameworks: React.js, Next.js, Bootstrap, Tailwind CSS
+- Tools: Git, VS Code, Chrome DevTools, npm
+- Others: REST APIs, Responsive Design, Web Accessibility (WCAG), Figma
+
+---
+
+Work Experience:
+
+Frontend Developer  
+XYZ Solutions, New York, NY  
+Jan 2023 – Present  
+- Developed and maintained web applications using React and Next.js
+- Collaborated with designers to implement pixel-perfect UIs from Figma
+- Optimized page load times and accessibility for better SEO and UX
+- Built reusable components and managed global state with Redux
+
+Web Development Intern  
+WebGenix, Remote  
+Jul 2021 – Dec 2022  
+- Assisted in the development of company websites using HTML, CSS, and JS
+- Participated in code reviews and daily standups with agile team
+- Fixed UI bugs and helped improve cross-browser compatibility
+
+---
+
+Education:
+Bachelor of Technology in Computer Science  
+ABC University, 2018 – 2022
+
+---
+
+Projects:
+Portfolio Website – Built a responsive personal portfolio with React and Tailwind.  
+Weather App – Created a live weather dashboard using OpenWeather API.
+
+---
+
+Certifications:
+- Frontend Developer Certification – freeCodeCamp
+- Responsive Web Design – Coursera
+
+---
+
+Interests:
+UI/UX Design, Open Source, Blogging, Tech Meetups

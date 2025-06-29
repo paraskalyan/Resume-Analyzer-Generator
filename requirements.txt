@@ -5,6 +5,3 @@ fpdf
 python-docx
 pdfplumber
 dotenv
-os
-re
-io

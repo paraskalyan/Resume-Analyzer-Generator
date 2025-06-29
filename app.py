@@ -17,7 +17,7 @@ load_dotenv()
 client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 
 def extract_text_from_pdf(pdf_file):
-    """Extract text from uploaded PDF file"""
+
     try:
         with pdfplumber.open(pdf_file) as pdf:
             text = ""

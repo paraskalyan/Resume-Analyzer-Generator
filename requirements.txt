@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+python-dotenv
+fpdf
+python-docx
+pdfplumber
+dotenv
+os
+re
+io
